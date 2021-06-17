@@ -1,5 +1,5 @@
 # Alterado paar html louco
 
-![.awing.jpg](A-WING)
+![A-WING](.awing.jpg)
 
 Novo repo pra aprender essa bagaça!
